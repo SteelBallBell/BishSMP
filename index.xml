@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ABC Widgets, Inc.</title>
-    <link>https://example.org/</link>
-    <description>Recent content on ABC Widgets, Inc.</description>
+    <title>BishSMP</title>
+    <link>https://bishsmp.xyz/</link>
+    <description>Recent content on BishSMP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 21:34:42 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 May 2024 21:34:42 +0100</lastBuildDate><atom:link href="https://bishsmp.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The BishSMP</title>
-      <link>https://example.org/docs/test/</link>
+      <link>https://bishsmp.xyz/docs/test/</link>
       <pubDate>Thu, 30 May 2024 21:34:42 +0100</pubDate>
       
-      <guid>https://example.org/docs/test/</guid>
+      <guid>https://bishsmp.xyz/docs/test/</guid>
       <description>BishSMP If you are here you are probably doing this the wrong way. Make sure to open your Minecraft client and join using the link you are on right now.</description>
     </item>
     
