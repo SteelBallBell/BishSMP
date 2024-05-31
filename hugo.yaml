@@ -1,7 +1,0 @@
-baseURL: https://bishsmp.xyz/
-languageCode: en-us
-params:
-  contact:
-    email: admin@bishsmp.xyz
-  subtitle: Welcome to the BishSMP
-title: BishSMP
