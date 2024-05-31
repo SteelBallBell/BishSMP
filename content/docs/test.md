@@ -2,8 +2,6 @@
 title = 'The BishSMP'
 date = 2024-05-30T21:34:42+01:00
 draft = false
-custom_title_enabled = true
-custom_title_value = BishSMP
 +++
 
 ### BishSMP
