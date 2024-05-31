@@ -2,3 +2,14 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'BishSMP'
 theme = 'PaperMod'
+[params]
+ShowShareButtons = true
+ShareButtons = [ "linkedin", "x", "reddit" ]
+
+[[socialIcons]]
+name = "kofi"
+url = "https://kofi.com"
+
+[[socialIcons]]
+name = "x"
+url = "https://x.com"
