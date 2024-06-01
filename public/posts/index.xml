@@ -6,20 +6,31 @@
     <description>Recent content in Posts on BishSMP</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2024 11:38:57 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 17:15:52 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Our Discord</title>
+      <link>http://localhost:1313/posts/our-discord/</link>
+      <pubDate>Sat, 01 Jun 2024 17:15:52 +0100</pubDate>
+      <guid>http://localhost:1313/posts/our-discord/</guid>
+      <description>Join the BishSMP Discord server to connect with other players, get support, and stay updated with the latest news and events. Follow the link below to join our community: https://discord.gg/RmXR6UJjZu</description>
+    </item>
+    <item>
       <title>How to join the server on PS4, PS5, XBOX and Switch</title>
-      <link>http://localhost:1313/posts/secondpost/</link>
+      <link>http://localhost:1313/posts/console-tutorial/</link>
       <pubDate>Fri, 31 May 2024 11:38:57 +0100</pubDate>
-      <guid>http://localhost:1313/posts/secondpost/</guid>
-      <description>Many people on Minecraft console often face the issues of not being able to join the server because there is no add server button this is how you get around it using BedrockConnect PS4 &amp;amp; PS5 Open Settings XBOX SWITCH </description>
+      <guid>http://localhost:1313/posts/console-tutorial/</guid>
+      <description>PS4 &amp;amp; PS5 Open Settings:
+Navigate to the Settings page on your PS4 or PS5. Go to Network Settings:
+Click on the Network option in the Settings menu. Access Internet Connection Settings:
+On the left panel, click on &amp;ldquo;Settings&amp;rdquo;. Next to the left panel, select &amp;ldquo;Set Up Internet Connection&amp;rdquo;. Select Your Network:
+If you are connected to Wi-Fi, find your network under Registered Networks. Select your network, press the X button, and choose &amp;ldquo;Advanced Settings&amp;rdquo;.</description>
     </item>
     <item>
       <title>Welcome to the BishSMP</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Fri, 31 May 2024 09:20:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
       <description>Welcome Bish Students to BishSMP to join just use our ip bishsmp.xyz For those of you console I have created a tutorial which will help you join.</description>
     </item>
   </channel>

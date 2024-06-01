@@ -6,4 +6,4 @@ draft = false
 
 ### Welcome Bish Students to BishSMP to join just use our ip bishsmp.xyz
 
-For those of you console I have created a [tutorial](https://bishsmp.xyz/posts/secondpost/) which will help you join.
+For those of you console I have created a [tutorial](https://bishsmp.xyz/posts/Console-Tutorial/) which will help you join.
