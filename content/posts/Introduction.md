@@ -8,4 +8,4 @@ draft = false
 ![image](https://github.com/SteelBallBell/BishSMP/assets/171248181/dbe7a7cb-3928-4545-8402-2c924680ab73)
 
 
-For those of you console I have created a [tutorial](https://bishsmp.xyz/posts/Console-Tutorial/) which will help you join.
+For those of you console I have created a [tutorial](https://bishsmp.xyz/posts/console-tutorial/) which will help you join.
