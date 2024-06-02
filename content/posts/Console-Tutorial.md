@@ -41,7 +41,7 @@ draft = false
 
 8. **Connect to Server**:
    - Enter any server from the list.
-   - When the UI pops up, enter **bishsmp.xyz** in the "Connect to a Server" field and save.
+   - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
 ### XBOX
@@ -66,7 +66,7 @@ draft = false
 
 6. **Connect to Server**:
    - Enter any server from the list.
-   - When the UI pops up, enter **bishsmp.xyz** in the "Connect to a Server" field and save.
+   - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
 ### SWITCH
@@ -95,6 +95,6 @@ draft = false
 
 8. **Connect to Server**:
    - Enter any server from the list.
-   - When the UI pops up, enter **bishsmp.xyz** in the "Connect to a Server" field and save.
+   - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
