@@ -39,7 +39,12 @@ draft = false
    - Open Minecraft and head to the friends tab.
    ![Minecraft Servers](/gyatt.jpg)
 
-8. **Connect to Server**:
+8. **Add Friend**:
+   - Select Add Friend
+   - Add user McBEFC
+   ![Friend](/bombaclat.jpg)
+
+9. **Connect to Server**:
    - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
@@ -64,7 +69,12 @@ draft = false
    - Open Minecraft and head to the friends tab.
    ![Minecraft Servers](/gyatt.jpg)
 
-6. **Connect to Server**:
+6. **Add Friend**:
+   - Select Add Friend
+   - Add user McBEFC
+   ![Friend](/bombaclat.jpg)
+
+7. **Connect to Server**:
    - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
@@ -93,8 +103,14 @@ draft = false
    - Open Minecraft and head to the friends tab.
    ![Minecraft Servers](/gyatt.jpg)
 
-8. **Connect to Server**:
+8. **Add Friend**:
+   - Select Add Friend
+   - Add user McBEFC
+   ![Friend](/bombaclat.jpg)
+
+9. **Connect to Server**:
    - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
+   
