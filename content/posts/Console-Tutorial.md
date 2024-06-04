@@ -36,11 +36,11 @@ draft = false
    - Select "OK" to save your settings.
 
 7. **Launch Minecraft**:
-   - Open Minecraft and head to the servers tab.
-   ![Minecraft Servers](/03aaa-16566051905263-1920.avif)
+   - Open Minecraft and head to the friends tab.
+   ![Minecraft Servers](/gyatt.jpg)
 
 8. **Connect to Server**:
-   - Enter any server from the list.
+   - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
@@ -61,11 +61,11 @@ draft = false
    - When you are done, you will be shown a confirmation screen. Press **B** to save.
 
 5. **Launch Minecraft**:
-   - Open Minecraft and head to the servers tab.
-   ![Minecraft Servers](/03aaa-16566051905263-1920.avif)
+   - Open Minecraft and head to the friends tab.
+   ![Minecraft Servers](/gyatt.jpg)
 
 6. **Connect to Server**:
-   - Enter any server from the list.
+   - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
@@ -90,11 +90,11 @@ draft = false
    - Select **Save** > **OK**.
 
 7. **Launch Minecraft**:
-   - Open Minecraft and head to the servers tab.
-   ![Minecraft Servers](/03aaa-16566051905263-1920.avif)
+   - Open Minecraft and head to the friends tab.
+   ![Minecraft Servers](/gyatt.jpg)
 
 8. **Connect to Server**:
-   - Enter any server from the list.
+   - Join To Open Server List
    - When the UI pops up, enter **play.bishsmp.xyz** in the "Connect to a Server" field and save.
    ![Connect to Server](/4yzh8kt4r6q31.webp)
 ---
